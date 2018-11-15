@@ -1,4 +1,4 @@
-# web:https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+##### web:https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 ### 思路框图
 ![figure3](https://github.com/lix3972/papers/blob/master/CycleGan/picture/Figure3.png)
 Dx鉴别x,F(y)，Dy鉴别y,G(x).  x->G(x)->F(G(x))～=x(约等于)。y->F(y)->G(F(y))～=y

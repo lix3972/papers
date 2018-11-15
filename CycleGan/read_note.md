@@ -2,7 +2,7 @@
 ![figure3](https://github.com/lix3972/papers/blob/master/CycleGan/picture/Figure3.png)
 Dx鉴别x,F(y)，Dy鉴别y,G(x).  x->G(x)->F(G(x))～=x(约等于)。y->F(y)->G(F(y))～=y
 ### 公式  
-###### 对抗损失函数：  
+###### 对抗损失函数：（调整为式5）  
 ![formula1](https://github.com/lix3972/papers/blob/master/CycleGan/picture/Lgan.png)  
 ###### 循环一致性损失函数  
 ![formula2](https://github.com/lix3972/papers/blob/master/CycleGan/picture/Lcyc2.png)  

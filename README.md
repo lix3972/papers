@@ -6,6 +6,10 @@
 论文笔记：https://www.sohu.com/a/149717964_697750   
 仿射变换Affine transformation  https://blog.csdn.net/robert_chen1988/article/details/80498805  
 
+#### 对抗生成网络综述
+论文地址：https://arxiv.org/pdf/1710.07035.pdf
+https://blog.csdn.net/Uwr44UOuQcNsUQb60zk2/article/details/78334081
+
 ## CVPR2018资源汇总
 https://www.cnblogs.com/feifanrensheng/p/9153023.html
 ### 图像合成：

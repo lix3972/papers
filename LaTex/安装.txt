@@ -1,0 +1,21 @@
+一、安装Texlive
+1、下载
+（1）官网：https://www.latex-project.org/
+
+二、安装texstudio
+1、安装
+去官网http://texstudio.sourceforge.net/
+点击download
+然后安装
+2、修改语言
+Options—-Configure TexStudio…—-General—-Language—-zh_CN
+命令里正常的，如果不一样需要手动修改：
+
+三、模板的简单实用
+链接：https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-article/
+自学文档：https://www.latex-project.org/help/links/
+
+作者：司镜233
+链接：https://www.jianshu.com/p/484e08eaeab6
+来源：简书
+简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。

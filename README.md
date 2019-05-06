@@ -1,3 +1,6 @@
+# write
+#### 1、对写英文paper有帮助的网站： http://www.sohu.com/a/246777060_654541
+
 # papers
 #### 1、Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks --CycleGan
 

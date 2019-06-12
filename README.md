@@ -1,3 +1,24 @@
+## 查找计算机视觉三大顶级会议论文的方法ICCV,CVPR,ECCV
+###ICCV: http://www.informatik.uni-trier.de/~ley/db/conf/iccv/index.html
+
+###ECCV: http://www.informatik.uni-trier.de/~ley/db/conf/eccv/index.html
+
+###CVPR: http://dblp.uni-trier.de/db/conf/cvpr/index.html
+
+还可以找到一些代码： http://www.cvpapers.com/
+
+这个网站的所有文章都附带有C/C++源代码。http://www.ipol.im/
+
+深度学习论文与代码结合的网站：http://www.gitxiv.com/
+
+利用传统方法的视频处理博客(Face++)：http://www.liushuaicheng.org/
+--------------------- 
+作者：阿桑- 
+来源：CSDN 
+原文：https://blog.csdn.net/u010551600/article/details/80799419 
+版权声明：本文为博主原创文章，转载请附上博文链接！
+
+
 # write
 #### 1、对写英文paper有帮助的网站： http://www.sohu.com/a/246777060_654541
 
@@ -74,3 +95,7 @@ Krishna Regmi (Univ. of Central Florida); Ali Borji (Univ. of Central Florida)
 10.AttnGAN: Fine-Grained Text to Image Generation With Attentional Generative Adversarial Networks：
 
 Tao Xu (Lehigh Univ.); Pengchuan Zhang (); Qiuyuan Huang (); Han Zhang (Rutgers); Zhe Gan (); Xiaolei Huang (Lehigh ); Xiaodong He ()
+
+## ECCV 2018
+ECCV 2018 完整论文集 -- List & 下载链接 https://blog.csdn.net/u014636245/article/details/82319884  
+ECCV 2018论文解读及资源集锦  https://blog.csdn.net/Extremevision/article/details/81875068

@@ -21,11 +21,11 @@
 原文：https://blog.csdn.net/u010551600/article/details/80799419 
 版权声明：本文为博主原创文章，转载请附上博文链接！
 
-分类搜索  https://dblp.uni-trier.de/search
+### 分类搜索  https://dblp.uni-trier.de/search
 
-分类查看  https://www.ctolib.com/mip/sbrugman-deep-learning-papers.html
+### 分类查看  https://www.ctolib.com/mip/sbrugman-deep-learning-papers.html
 
-别人总结：https://blog.csdn.net/qq_35240640/article/details/89452455
+### 别人总结：https://blog.csdn.net/qq_35240640/article/details/89452455
 CVPR 2019 accepted papers：
 https://docs.google.com/spreadsheets/d/1RU2y-iuzwtAR_hn4V9yz1qpZSiElm3iaCpUoDJ-vfvQ/htmlview?sle=true#
 或者（上面的访问不了，可以选择下面的网址）
@@ -56,9 +56,6 @@ AAAI 2019 accepted papers ： https://aaai.org/Conferences/AAAI-19/wp-content/up
 ACL 2019 accepted papers：http://www.acl2019.org/EN/program.xhtml
 
 ICCV 2019 accepted papers：http://iccv2019.thecvf.com/program/main_conference
-
-
-
 
 ICLR 2020 提交的论文：https://openreview.net/group?id=ICLR.cc/2020/Conference
 ————————————————

@@ -1,3 +1,4 @@
+# 一、看论文
 ## 查找计算机视觉三大顶级会议论文的方法ICCV,CVPR,ECCV
 ### CVPR：http://openaccess.thecvf.com/CVPR2019.py
 搜索的CVPR: http://dblp.uni-trier.de/db/conf/cvpr/index.html
@@ -63,10 +64,20 @@ ICLR 2020 提交的论文：https://openreview.net/group?id=ICLR.cc/2020/Confere
 原文链接：https://blog.csdn.net/qq_35240640/article/details/89452455
 
 
-# write
+# 二、write
 #### 1、对写英文paper有帮助的网站： http://www.sohu.com/a/246777060_654541
-
-# papers
+1.1 Citation 引用格式
+ 1.1.1 Purdue Online Writing Lab（简称Purdue Owl）
+ 1.1.2 MLA
+1.2 Synonyms 近义词
+ 1.2.1 Thesaurus
+ Thesaurus和Dictionary.com是绑定的。其它的词典：欧路词典、Merriam-webster词典
+ 1.2.2. Semantic Domains
+1.3 Phrases 短语搭配
+ 1.3.1. Academic Phrasebank
+ 1.3.2. Ludwig
+ 1.3.3. Linggle
+# 三、一堆
 #### 1、Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks --CycleGan
 
 #### 2、Spatial Transformer Networks  

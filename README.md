@@ -7,7 +7,8 @@
 
 ### 搜索的ICCV: http://www.informatik.uni-trier.de/~ley/db/conf/iccv/index.html
 
-### 搜索的ECCV: http://www.informatik.uni-trier.de/~ley/db/conf/eccv/index.html
+### ECCV: https://link.springer.com/conference/eccv
+搜索的ECCV: http://www.informatik.uni-trier.de/~ley/db/conf/eccv/index.html
 
 还可以找到一些代码： http://www.cvpapers.com/
 

@@ -15,7 +15,11 @@
 
 ### 分类查看  https://www.ctolib.com/mip/sbrugman-deep-learning-papers.html
 
-### 别人总结：https://blog.csdn.net/qq_35240640/article/details/89452455
+### 分类总结：
+风格迁移： https://github.com/fuzhenxin/Style-Transfer-in-Text
+
+### 别人总结：https://blog.csdn.net/qq_35240640/article/details/8945245
+
 CVPR 2019 accepted papers：
 https://docs.google.com/spreadsheets/d/1RU2y-iuzwtAR_hn4V9yz1qpZSiElm3iaCpUoDJ-vfvQ/htmlview?sle=true#
 或者（上面的访问不了，可以选择下面的网址）

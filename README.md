@@ -11,13 +11,6 @@
 搜索的ECCV: http://www.informatik.uni-trier.de/~ley/db/conf/eccv/index.html  
 
 
-还可以找到一些代码： http://www.cvpapers.com/  
-这个网站的所有文章都附带有C/C++源代码。http://www.ipol.im/  
-深度学习论文与代码结合的网站：http://www.gitxiv.com/  
-利用传统方法的视频处理博客(Face++)：http://www.liushuaicheng.org/  
-原文：https://blog.csdn.net/u010551600/article/details/80799419   
-
-
 ### 分类搜索  https://dblp.uni-trier.de/search
 
 ### 分类查看  https://www.ctolib.com/mip/sbrugman-deep-learning-papers.html
@@ -58,6 +51,14 @@ ICLR 2020 提交的论文：https://openreview.net/group?id=ICLR.cc/2020/Confere
 ————————————————
 版权声明：本文为CSDN博主「缘*」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
 原文链接：https://blog.csdn.net/qq_35240640/article/details/89452455
+
+
+还可以找到一些代码： http://www.cvpapers.com/  
+这个网站的所有文章都附带有C/C++源代码。http://www.ipol.im/  
+深度学习论文与代码结合的网站：http://www.gitxiv.com/  
+利用传统方法的视频处理博客(Face++)：http://www.liushuaicheng.org/  
+原文：https://blog.csdn.net/u010551600/article/details/80799419   
+
 
 
 # 二、write

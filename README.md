@@ -14,11 +14,11 @@
 ### 分类搜索  https://dblp.uni-trier.de/search
 
 ### 分类查看  https://www.ctolib.com/mip/sbrugman-deep-learning-papers.html
-* 语义分割(awesome-semantic-segmentation): https://github.com/mrgloom/awesome-semantic-segmentation
-
 
 ### 分类总结：
-风格迁移： https://github.com/fuzhenxin/Style-Transfer-in-Text
+* 风格迁移： https://github.com/fuzhenxin/Style-Transfer-in-Text  
+* 语义分割(awesome-semantic-segmentation): https://github.com/mrgloom/awesome-semantic-segmentation
+
 
 ### 别人总结：https://blog.csdn.net/qq_35240640/article/details/8945245
 
